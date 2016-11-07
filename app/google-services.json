@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362312454533",
+    "firebase_url": "https://firetext-51061.firebaseio.com",
+    "project_id": "firetext-51061",
+    "storage_bucket": "firetext-51061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362312454533:android:e1c22e16119d5972",
+        "android_client_info": {
+          "package_name": "me.vivekbhakta.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362312454533-abbmehigmuoqooqco8gqdo51u9blerfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.vivekbhakta.myapplication",
+            "certificate_hash": "FD6DDD64141DCFA0207871D748394E8F21895828"
+          }
+        },
+        {
+          "client_id": "362312454533-meoh847qdis9epg2dnprvv2tg1te3jkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4NcsDYZZWmLyLJlGzdtfl4MCl2Q7efc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362312454533-meoh847qdis9epg2dnprvv2tg1te3jkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
